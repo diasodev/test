@@ -12,6 +12,8 @@
   "license": "ISC",
   "dependencies": {
     "locate-chrome": "^0.1.1",
+    "moment": "^2.29.3",
+    "mongoose": "^6.4.2",
     "puppeteer": "^15.3.0",
     "puppeteer-core": "^15.3.0"
   }
