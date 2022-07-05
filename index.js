@@ -16,7 +16,7 @@ const puppeteer = require("puppeteer");
       deviceScaleFactor: window.devicePixelRatio,
     };
   });
-
+  console.log('funcionou:');
   console.log('Dimensions:', dimensions);
 
   await browser.close();
